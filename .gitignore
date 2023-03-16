@@ -1,0 +1,13 @@
+# Webstorm
+.idea
+
+# Node modules
+node_modules
+
+# Severless
+.serverless
+
+# Visual Studio Code
+.vscode
+
+.nyc_output
